@@ -18,7 +18,7 @@ It provides environment setup instructions, partial illustrative examples, and e
 Due to **data confidentiality agreements** with the collaborating textile factory, only a **limited subset of fabric images** is included for demonstration purposes.  
 All other industrial samples and corresponding pixel-level annotations cannot be publicly disclosed.
 
-> ⚠️ **Note:** The complete source code and dataset will be made publicly available **after the manuscript is formally accepted** for publication.
+> ⚠️ **Note:** The complete source code will be made publicly available **after the manuscript is formally accepted** for publication.
 
 ---
 

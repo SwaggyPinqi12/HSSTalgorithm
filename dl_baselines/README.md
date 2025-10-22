@@ -53,4 +53,4 @@ Predict on a folder of images using ```predict_folder.py```:
 python predict_folder.py
 ```
 
-- Note: Only a subset of dataset samples is included in this repository. Full dataset and pre-trained models will be released after the manuscript is formally accepted. 
+> ⚠️ **Note:**  The pre-trained models will be publicly released on this repository after the manuscript is officially accepted by *The Visual Computer*.

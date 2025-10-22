@@ -13,7 +13,7 @@ GitHub Repository: [https://github.com/SwaggyPinqi12/HSSTalgorithm](https://gith
 ## 📘 Repository Statement
 
 This repository is established to accompany the above-mentioned manuscript.  
-It provides environment setup instructions, partial illustrative examples, and experimental result summaries.  
+It provides environment setup instructions, partial source code and illustrative examples, as well as experimental result summaries.  
 
 Due to **data confidentiality agreements** with the collaborating textile factory, only a **limited subset of fabric images** is included for demonstration purposes.  
 All other industrial samples and corresponding pixel-level annotations cannot be publicly disclosed.
@@ -102,9 +102,9 @@ This study introduces a **Gabor-optimized hybrid saliency and stability-driven t
    ```bash
    git clone https://github.com/SwaggyPinqi12/HSSTalgorithm.git
 2. Open the Visual Studio solution file.
-3. Configure OpenCV environment variables (include, lib, and bin paths).
+3. Configure OpenCV environment variables (```include```, ```lib```, and ```bin``` paths).
 4. Build the project in *Release* mode.
-5. Executables and results will appear under /bin.
+5. Executables and results will appear under ```/bin```.
 
 ### 2. Deep Learning Baselines
 - **Environment:** WSL2 (Ubuntu 22.04)

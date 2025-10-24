@@ -1,5 +1,6 @@
 # Enhanced Fabric Stain Detection via Gabor-Optimized Saliency Fusion and Stability-Driven Thresholding
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17430197-blue.svg)](https://doi.org/10.5281/zenodo.17430197)
+---
 This repository corresponds to the manuscript:
 
 > **"Enhanced Fabric Stain Detection via Gabor-Optimized Saliency Fusion and Stability-Driven Thresholding"**  

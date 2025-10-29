@@ -4,7 +4,7 @@
 This repository corresponds to the manuscript:
 
 > **"Enhanced Fabric Stain Detection via Gabor-Optimized Saliency Fusion and Stability-Driven Thresholding"**  
-> Submitted to *The Visual Computer* (Springer)
+> Submitted to *Machine Vision and Applications* (Springer)
   ![](assets/system_structure.png)
 
 GitHub Repository: [https://github.com/SwaggyPinqi12/HSSTalgorithm](https://github.com/SwaggyPinqi12/HSSTalgorithm)
@@ -148,7 +148,7 @@ The complete implementation, including:
 - Training and inference scripts for Comparison deep-learning models,
 - Evaluation and visualization scripts for pixel- and image-level performance.
 
-will be publicly released on this repository after the manuscript is officially accepted by *The Visual Computer*.
+will be publicly released on this repository after the manuscript is officially accepted by *Machine Vision and Applications*.
 
 Since the software version of this algorithm has already been deployed and tested in a third-party textile factory, the temporary postponement of full code release is to avoid unnecessary code exposure before formal publication.  
 We appreciate your understanding and patience.
